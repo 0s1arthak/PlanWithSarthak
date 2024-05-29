@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PlanWithSarthak/static/css/main.66e30e9d.css",
+    "main.js": "/PlanWithSarthak/static/js/main.fcd8e333.js",
+    "index.html": "/PlanWithSarthak/index.html",
+    "main.66e30e9d.css.map": "/PlanWithSarthak/static/css/main.66e30e9d.css.map",
+    "main.fcd8e333.js.map": "/PlanWithSarthak/static/js/main.fcd8e333.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66e30e9d.css",
+    "static/js/main.fcd8e333.js"
+  ]
+}
